@@ -1,0 +1,14 @@
+1) models ابدا اعمل ال
+2) routes ابدا اعمل ال
+3) controller ال route اروح اعمل لكل
+4) index فى فايل ال router استخدم ال
+5) jwt شوية حاجات مفيدة منها استخدم
+   explain مشروحة فى ال
+7) استخدم التوكن
+8) use roles of users
+  1)add roles in model
+  2)update genrate token
+    1)update token in file users.controller ==>register && login
+    2)update verify token in file verifytoken
+  3) create file allowedTo to check which user can use the route
+  4) use the file allowedTo in route i need spacific user use it

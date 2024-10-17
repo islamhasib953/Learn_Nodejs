@@ -1,0 +1,15 @@
+"cors": "^2.8.5", // to can connect api with frontend
+"dotenv": "^16.4.5", //to can modifiy environment variables and use it
+"express": "^4.21.1", // to can create api
+"express-validator": "^7.2.0", // to can validate data in routes ==> controllers when user send data
+"mongoose": "^8.7.1", // to can connect with mongodb
+"nodemon": "^3.1.7", //  to can run server
+"validator": "^13.12.0", // to can validate data in model
+"bcryptjs": "^2.4.3",   //use it to hasing and hiding password
+"jsonwebtoken": "^9.0.2",  //using  it to create a new token and use it to validate
+"multer": "^1.4.5-lts.1",  //use it to upload files
+
+validationفى عندى كذا 
+  1)"express-validator" على مستوى الريكوست وده بتستخدم فيه
+  2)create model على مستوى الداتابيز وده بستخدمة لما اجى اعمل 
+  3)فى الموديل validator فى لما اعوز اتشيك على حاجة معينة اليوزر مدخلها اذا كانت صح او غلط بستخدم 
